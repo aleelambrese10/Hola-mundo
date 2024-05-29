@@ -2,7 +2,7 @@
 
 mi primer repositorio en Github
 
-i love :hotdog:, :beer:, :coffe: 
+i love :hotdog:, :beer:, :coffee: 
 
 i love :cat:, :car:, :family:
 
